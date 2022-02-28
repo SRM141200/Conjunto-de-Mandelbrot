@@ -2,7 +2,7 @@
 
 Repositorio laboratorio variable compleja, Conjunto de Mandelbrot.
 
-Dos scripts y el documento. 
+Dos scripts de MatLab y el documento. 
 
 El script Varificador_del_conjunto.m implementa una función donde se verifica si un número pertenece al Conjunto de Mandelbrot.
 
